@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+from lxml import etree as ET
 
 #Get the XML file data
 stream = open('text.xml','r')
@@ -17,7 +17,3 @@ for e in root:
 
     #Print the "Id" attribute of the Element object
     print(e.get("id"))
-
-
-
-
