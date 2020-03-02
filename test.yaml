@@ -3,7 +3,7 @@ people:
 - Id: 1
   Code: 524.37
   FirstName: Vernal
-  Lastname: Cooper
+  LastName: Cooper
   Email: vcooper@apdport.com
   Active: true
 - Id: 2
@@ -18,10 +18,6 @@ people:
   LastName: Doe
   Email: jadoe@apdport.com
   Active: false
-  ...
-  
-  --- #this is a test
-  ANumber: 145
-  AFloat: 19.8075
-  AString: Hello there Vernal!
-  AQutoedString: "Quotes"
+...
+
+
