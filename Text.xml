@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<People>
+<people>
      <person id="1">
           <firstname>Vernal</firstname>
           <lastname>Cooper</lastname>
          <email>vcooper@apdport.com</email>
      </person>
 
-     <Person id="2">
+     <person id="2">
          <firstname>John</firstname>
          <lastname>Doe</lastname>
          <email>jdoe@apdport.com</email>
      </person>
-</People>
+</people>
 
 
 
