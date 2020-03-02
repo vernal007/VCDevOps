@@ -1,4 +1,4 @@
-myObj =  {"People":[
+myObj =  [
     {
         "Id": "1",
         "Firstname": "Vernal",
@@ -24,6 +24,6 @@ myObj =  {"People":[
         "Email": "gmoncur@apdport.com"
     }
 
-]}
+]
 
-console.log(myObj.People[1].Firstname);
+console.log(myObj[0]);
